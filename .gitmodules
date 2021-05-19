@@ -1,0 +1,3 @@
+[submodule "login-ui"]
+	path = login-ui
+	url = git@github.com:TanNguyenUIT/learn-react-native.git
